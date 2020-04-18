@@ -10,3 +10,4 @@ Feature: Is it Friday yet?
       | Friday          | TGIF    |
       | Sunday          | No      |
       | anything else!  | No      |
+      | Monday          | No      |
